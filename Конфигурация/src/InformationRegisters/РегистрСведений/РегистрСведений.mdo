@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:InformationRegister xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="e4955605-71c7-46f2-88b2-95a13a74e4a2">
+  <producedTypes>
+    <selectionType typeId="cf037827-8bc7-49a5-8e1b-dbc563b03fdb" valueTypeId="8abcd4a9-be33-4b7f-9975-4465e0311240"/>
+    <listType typeId="ff9f67a9-5116-47a1-82ab-ab56e355cd4d" valueTypeId="2743a881-0548-4484-ae0c-89cb259c9576"/>
+    <managerType typeId="0b384898-bad7-454d-9311-44bc417fd52c" valueTypeId="1d4daaa4-44a3-48b8-a168-72f835578c9d"/>
+    <recordSetType typeId="e037f360-7886-4fe6-b2d3-43bcb8d89204" valueTypeId="00785d91-f221-41b3-90cd-a21b6f52ac52"/>
+    <recordKeyType typeId="10de6725-71b9-4dca-b151-df1246ebc66c" valueTypeId="ecda0059-2b67-499c-9954-5ba8604cf87d"/>
+    <recordType typeId="03c48eb3-a89c-4359-9e0d-9caf8adef906" valueTypeId="d5f04400-46fd-43b6-aa49-107e2e9de6d5"/>
+    <recordManagerType typeId="16e785cb-c898-44b2-933f-559b3fe10d97" valueTypeId="3fcbe522-bbcf-40e3-a472-1f561e35fc1b"/>
+  </producedTypes>
+  <name>РегистрСведений</name>
+  <synonym>
+    <key>ru</key>
+    <value>Регистр сведений</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <editType>InDialog</editType>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:InformationRegister>
